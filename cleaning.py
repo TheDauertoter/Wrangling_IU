@@ -146,9 +146,9 @@ df_total = df_total.drop(columns=['Unit Price', 'Profit', 'Size'])
 sheet_report(df_total, 'final table')
 
 #safe final table as csv
-#file = "final_data/final_table.csv"
-#df_total.to_csv(file, index=False, encoding='utf-8')
-#print("")
-#print("final table saved to", file)
-#print("")
+file = "final_data/final_table.csv"
+df_total.to_csv(file, index=False, encoding='utf-8')
+print("")
+print("final table saved to", file)
+print("")
 
