@@ -9,7 +9,4 @@ raw_data - raw data of the coffe beans set as .xlxs
 
 final_data - final table of the data after wrangling as cvs
 
-please feel free to active the safe function (don´t forget to change the file path to your wishes)
-and explore the final table
-
 Source of raw file : https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset/data
